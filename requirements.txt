@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+yfinance
+plotly
+nbformat
+ipykernel
+setuptools
+pandas_ta
